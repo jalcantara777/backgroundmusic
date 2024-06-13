@@ -1,9 +1,25 @@
+<div style="
+  position: relative;
+  padding: 20px;
+  background: rgba(255, 255, 255,0); /* Color de fondo semitransparente */
+">
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://jalcantara777.neocities.org/images/DS.png');
+    background-size: cover;
+    opacity: 0.4; /* Nivel de transparencia de la imagen de fondo */
+    z-index: -1;
+  "></div>
 
  
-<img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=014ba0&height=120&section=header"/>
 
 <h1 align="center">  Hi there 👋 Welcome to my GitHub Profile!</h1>
-<h1 align="center"> My name is José Alcántara </h1>
+<h1 align="center"> My name is <span style="color: #5ccb5f">José Alcántara</span> </h1>
 
 
 
@@ -11,13 +27,13 @@
 <img width="700px"  src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=30&pause=1000&color=02F6F7&center=true&random=true&width=435&lines=Data+Scientist;Data+Analyst;Data+Engineer;Python+Dev;Power+BI+viz+dev;ORACLE+operator"  />
 </p>
 
-<h2 align="center">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🔧</h2> 
+
+<h2 align="center" style="color: #5ccb5f; font-weight: bold; text-shadow: 1px 1px 2px #000;">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🔧</h2> 
 <p align="center">
 <img width="800px"  src="https://skillicons.dev/icons?i=py,sklearn,vscode,aws,docker,sqlite,mysql,postgresql,git,github,html,js,fastapi,"  />
 </p>
 <br />
-
-
+</div>
 
 - I'm a Data Scientist, Data Analyst with experience in Salesforce-Trademarketing, Logistic and HR (People Analytics) areas and Math teacher.
 - 👨‍💻 I specialize in developing and implementing innovative data science solutions, with a focus on extraction, transformation, and modeling of data using various tools and technologies such as Python, Pandas, NumPy, and Power BI.
@@ -30,7 +46,7 @@
 - 📫 How to reach me: You can catch and follow me through the links below, or contact me directly here.
 - 😄 Fun fact: I enjoy chess ♔, Coding 💻, and Cosmologic videos 🌌.
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center" style="color: #5ccb5f; font-weight: bold; text-shadow: 1px 1px 2px #000;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/jalcantara777/" target="_blank">
@@ -46,7 +62,7 @@
 
 
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center" style="color: #5ccb5f; font-weight: bold; text-shadow: 1px 1px 2px #000;">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -71,14 +87,7 @@
 </table>
 <br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jalcantara777&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
-
-
 <p align="center">
-  <img width="1000px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=063254&height=100&section=footer"/>
 </p>
+
