@@ -3,18 +3,6 @@
   padding: 20px;
   background: rgba(255, 255, 255,0); /* Color de fondo semitransparente */
 ">
-  <div style="
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('https://jalcantara777.neocities.org/images/DS.png');
-    background-size: cover;
-    opacity: 0.4; /* Nivel de transparencia de la imagen de fondo */
-    z-index: -1;
-  "></div>
-
  
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=014ba0&height=120&section=header"/>
 
@@ -77,7 +65,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/alopezfederico">
+        <a href="https://github.com/jalcantara777">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jalcantara777&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
